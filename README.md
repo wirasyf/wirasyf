@@ -6,7 +6,11 @@
 
 ###
 
-<h1 align="center">Hey 👋 What's up?</h1>
+<p align="center"><img src="https://count.getloli.com/get/@wirasyf-github-readme?theme=rule34" /></p></div>
+
+###
+
+<h1 align="center">Hey, Whats Up</h1>
 
 ###
 
@@ -52,7 +56,6 @@
 
 ###
 
-<h2 align="center">Stats</h2>
 
 ###
 <div align="center">
