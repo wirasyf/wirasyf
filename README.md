@@ -52,10 +52,18 @@
 
 ###
 
+<h2 align="center">Stats</h2>
+
+###
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=wirasyf&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <h2 align="center"></h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wirasyf&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="center">Snake</h2>
 
 ###
 
